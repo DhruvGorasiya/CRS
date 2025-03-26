@@ -1,0 +1,61 @@
+Subject,Subject Names,Course Outcomes,Programming Knowledge Needed,Math Requirements,Other Requirements,Weekly Workload (hours),Assignments #,Hours per Assignment,Assignment Weight,Avg Assignment Grade,Project Weight,Avg Project Grade,Exam #,Avg Exam Grade,Exam Weight,Avg Final Grade,Burnout (P),Prerequisite,Corequisite
+CS5001,Intensive Foundations of Computer Science,"Python, Programming fundamentals, Logic, Problem-solving  ",None,None,None,15,7,10,0.45,87,0,0,2,85,0.55,84,,None,CS5003
+CS5002,Discrete Structures,"Discrete Mathematics, Graph Theory, Combinatorics, Logic, Set Theory  ",None,None,None,15,6,5,0.3,82,0.3,85,1,82,0.4,82,,None,None
+CS5004,Object-Oriented Design,"OOP Principles, Design Patterns, UML, Java/C++/C#, SOLID Principles  ",None,None,None,12,5,6,0.35,92,0.25,90,1,88,0.4,92,,CS5001,CS5005
+CS5008,"Data Structures, Algorithms, and Their Applications within Computer Systems","Algorithms, Data Structures, Complexity Analysis, Java/C++, Memory Optimization  ",C,None,None,10,6,5,0.35,94,0.25,92,1,90,0.4,94,,CS5001,CS5009
+CS5010,Programming Design Paradigm,"Functional Programming, Imperative Programming, Declarative Programming, Python/Java/Haskell  ",None,None,None,15,5,6,0.3,88,0.3,90,1,87,0.4,88,,None,CS5011
+CS5047,Exploring AI Trends and Tools,"AI Ethics, TensorFlow/PyTorch, Generative AI, Industry Applications  ",None,None,None,10,4,6,0.5,88,0.3,90,1,88,0.2,89,,None,None
+CS5097,Mixed Reality,"Unity/Unreal Engine, VR, AR, XR, Development, 3D Interaction, Spatial Computing",None,None,None,8,4,5,0.4,85,0.3,87,1,86,0.3,86,,None,None
+CS5100,Foundations of Artificial Intelligence,"Search Algorithms, Knowledge Representation, Logic, Python, AI, ML, NLP, RL ",Python,"Linear Algebra, Probabilities and Calculus",None,10,9,6,0.6,95,0.4,90,1,90,0,90,,None,None
+CS5150,Game Artificial Intelligence,"AI, Games, Pathfinding",None,None,None,10,5,5,0.35,87,0.35,89,1,88,0.3,88,,None,None
+CS5170,Artificial Intelligence for Human-Computer Interaction,"AI, HCI, UI",None,"Probability, Linear algebra",None,10,5,6,0.4,86,0.3,88,1,87,0.3,87,,CS5100,None
+CS5180,Reinforcement Learning and Sequential Decision Making,"RL, Markov, Decision",None,None,None,12,5,6,0.4,88,0.3,90,1,89,0.3,89,,None,None
+CS5200,Database Management Systems,"SQL, DB Design",None,None,None,10,7,10,0.23,90,0.2,95,4,88,0.54,89,,None,None
+CS5310,Computer Graphics,"Graphics, 2D, 3D",None,Linear Algebra,None,10,5,5,0.35,87,0.3,89,1,88,0.35,88,,None,None
+CS5330,Pattern Recognition and Computer Vision,"CV, Patterns",None,Linear Algebra,None,12,5,6,0.4,86,0.3,88,1,87,0.3,87,,None,None
+CS5335,Robotic Science and Systems,"Robotics, Kinematics",None,None,None,12,5,6,0.4,88,0.3,90,1,89,0.3,89,,None,None
+CS5340,Computer/Human Interaction,"HCI, UI, UX",C,None,None,10,5,5,0.35,85,0.3,87,1,86,0.35,86,,None,None
+CS5350,Applied Geometric Representation and Computation,"Geometric transformations, 3D modeling techniques",None,"Linear Algebra, Discrete Math",None,5,5,4,0.35,86,0.3,89,1,88,0.35,87,,None,None
+CS5360,Noninteractive Computer Graphics,"Ray tracing, rasterization, shaders",None,Discrete Math,None,4,5,4,0.4,84,0.25,87,1,85,0.35,85,,None,None
+CS5400,Principles of Programming Language,"Programming paradigms, language design",None,None,None,4,6,4,0.3,87,0.3,90,1,88,0.4,88,,CS5010,None
+CS5500,Foundations of Software Engineering,"OOD, SDLC, unit testing, agile","Javascript, OOD",None,None,5,6,4,0.3,85,0.4,89,1,86,0.3,87,,CS5010,None
+CS5520,Mobile Application Development,"Java/Kotlin, Android Studio, Firebase, MVVM","Java, OOD",Linear Algebra,None,6,6,5,0.3,85,0.4,88,1,85,0.3,86,,None,None
+CS5540,Game Programming,Unity/Unreal Engine,None,Discrete Math,None,5,5,4,0.35,83,0.3,86,1,84,0.35,85,,CS5004,None
+CS5600,Computer Systems,"Memory management, C",C,None,None,5,6,4,0.3,85,0.35,88,1,87,0.35,87,,None,None
+CS5610,Web Development,"HTML/CSS/JavaScript, React/Node.js, RESTful APIs, Web Security  ","HTML, CSS, SQL","Probability, Discrete Math",None,5,5,4,0.35,84,0.3,87,1,86,0.35,86,,None,None
+CS5700,Fundamentals of Computer Networking,"TCP/IP, routing algorithms",None,"Discrete Math, Probability",None,6,6,5,0.4,87,0.3,90,1,89,0.3,88,,None,None
+CS5800,Algorithms,"Dynamic programming, Sorting/Searching, Graph Algorithms, Divide-and-Conquer, Big-O Analysis  ",Java or Python,Linear Algebra,None,6,6,5,0.35,85,0.4,89,1,85,0.25,86,,None,None
+CS5850,Building Game Engines,"Engine architecture, Entity-Component Systems, Physics Simulation, Rendering Optimization, C++  ",OS,Differential Calculus,None,4,5,4,0.3,85,0.3,88,1,86,0.4,87,,None,None
+CS5933,Advanced Computer Science Topics for Teachers,Teaching methodologies,None,None,Teaching experience,4,5,4,0.3,84,0.3,87,1,85,0.4,86,,None,None
+CS5934,Introduction to Inclusive Computer Science Teaching,"Equity in CS education, accessibility",Varies,None,Teaching experience,5,5,4,0.3,85,0.3,88,1,86,0.4,86,,None,None
+CS5964,Projects for Professionals,Project management,None,None,Industry experience,5,4,5,0.3,86,0.4,89,0,0,0,88,,None,None
+CS5965,Engaging with Industry Partners for Rising Professionals,Industry collaboration,Varies,None,Industry experience,5,4,5,0.3,85,0.5,90,0,0,0,89,,None,None
+CS6120,Natural Language Processing,"Tokenization, Transformers, BERT/GPT, Sentiment Analysis, Python, NLP",None,Basic Statistics,None,4,4,5,0.35,82,0.25,85,1,88,0.4,85,,None,None
+CS6130,Affective Computing,"Emotion recognition, sentiment analysis",None,"Linear Algebra, Probability, Calculus",None,4,6,5,0.5,88,0.2,90,1,89,0.3,89,,None,None
+CS6140,Machine Learning,"Decision trees, neural networks, RL,DL, ML",None,"Probability, Linear Algebra",None,4,5,4,0.4,85,0.3,88,1,87,0.3,87,,CS5800,None
+CS6200,Information Retrieval,"TF-IDF, PageRank, vector space models, IR models",None,"Probability, Linear Algebra",None,4,5,4,0.4,85,0.3,88,1,87,0.3,87,,None,None
+DS5010,Introduction to Programming for Data Science,"Python/R, Pandas, Jupyter Notebooks, Data Cleaning, Data Processing",Python,None,None,4,5,5,0.35,86,0.3,88,1,87,0.35,87,,None,None
+DS5020,Introduction to Linear Algebra and Probability for Data Science,"Stats, probability, Linear algebra, Python",Python,"Basic knowledge of Stats, probability, Linear algebra, Matrix operations",None,6,5,5,0.35,85,0.3,87,1,86,0.35,86,,None,None
+DS5110,Introduction to Data Management and Processing,"SQL, ETL Pipelines, Data Warehousing, Apache Spark",Python,None,None,5,5,5,0.35,87,0.3,89,1,88,0.35,88,,None,None
+DS5220,Supervised Machine Learning and Learning Theory,"Python, R, MATLAB, Algorithms, SVMs, Decision Trees, Overfitting, Cross-Validation  ",Python,None,"Python, R, MATLAB",6,5,6,0.4,88,0.3,90,1,89,0.3,89,,None,None
+DS5230,Unsupervised Machine Learning and Data Mining,"Python, R, MATLAB, Algorithms","Python, R, MATLAB",None,"Python, R, MATLAB",6,5,6,0.4,87,0.3,89,1,88,0.3,88,,None,None
+DS5500,Data Science Capstone,"Data Wrangling, Machine Learning",Python,None,None,12,4,8,0.3,90,0.5,92,1,91,0.2,91,,CS5800,None
+CS6120,Natural Language Processing,"Tokenization, Transformers, BERT/GPT, Sentiment Analysis, Python",Yes,"Probability, Linear Algebra",None,4,5,4,0.4,85,0.3,88,1,87,0.3,87,,None,None
+CS6130,Affective Computing,"Emotion Recognition, Biosignal Processing, Ethics, Python/MATLAB",Yes,Basic Statistics,None,4,4,5,0.35,82,0.25,85,1,88,0.4,85,,None,None
+CS6140,Machine Learning,"Regression, Classification, Feature Engineering, Scikit-learn/Python",Yes,"Linear Algebra, Probability, Calculus",None,4,6,5,0.5,88,0.2,90,1,89,0.3,89,,CS5800,None
+CS6200,Information Retrieval,"Search Algorithms, TF-IDF, PageRank, Elasticsearch  ",Yes,"Probability, Linear Algebra",None,4,5,4,0.4,84,0.3,87,1,86,0.3,86,,None,None
+CS6220,Data Mining Techniques,"Covers classification, prediction, ensemble methods",Yes,"Linear Algebra, Probability",None,4,6,5,0.5,87,0.2,89,1,88,0.3,88,,CS5800,None
+CS6240,Large-Scale Parallel Data Processing,"MapReduce, Hadoop/Spark, Distributed Computing, Cloud Platforms (AWS)",Yes,"Linear Algebra, Probability",None,4,5,6,0.4,83,0.3,86,1,85,0.3,85,,CS5800,None
+CS6350,Empirical Research Methods,Methods for conducting empirical research,No,Basic Statistics,None,4,4,5,0.4,82,0.2,84,1,83,0.4,83,,None,None
+CS6410,Compilers,"Lexical Analysis, Parsing, Code Generation, LLVM",Yes,None,None,4,6,6,0.5,86,0.3,88,1,87,0.2,87,,CS5400,None
+CS6510,Advanced Software Development,"Participate in a large-scale project, Microservices, Docker/Kubernetes, DevOps, API Design",Yes,None,None,4,4,6,0.4,83,0.4,85,0,0,0.2,84,,CS5004,None
+CS6620,Fundamentals of Cloud Computing,"AWS/Azure, Virtualization, Serverless Architecture, IaC (Terraform)",Yes,None,None,4,5,5,0.4,84,0.3,86,1,85,0.3,85,,None,None
+CS6640,Operating Systems Implementation,"Design and implementation of OS kernel,Kernel Development, File Systems, Multithreading, C/Rust  ",Yes,None,None,4,6,6,0.5,87,0.2,89,1,88,0.3,88,,CS5600,None
+CS6650,Building Scalable Distributed Systems,"Essential elements of distributed systems, Consensus Algorithms (Raft), Load Balancing, CAP Theorem  ",Yes,None,None,4,5,5,0.4,83,0.3,85,1,84,0.3,84,,None,None
+CS7150,Deep Learning,"Deep learning, neural networks, Neural Networks, CNN/RNN, PyTorch/TensorFlow, GPU Acceleration  ",Python,"Linear Algebra, Calculus",None,12,5,6,0.4,90,0.3,92,1,91,0.3,91,,CS6140,None
+CS7200,Statistical Methods for Computer Science,"Applied statistics, Bayesian inference",None,"Probability, Statistics",None,10,5,5,0.35,87,0.3,89,1,88,0.35,88,,None,None
+CS7250,Information Visualization: Theory and Applications,Data visualization theory,None,None,None,8,4,5,0.3,85,0.4,87,1,86,0.3,86,,None,None
+CS7300,Empirical Research Methods for Human Computer Interaction,Human subject studies,None,None,None,10,5,5,0.35,86,0.3,88,1,87,0.35,87,,None,None
+CS7400,Intensive Principles of Programming Languages,"Syntax, semantics of programming languages",None,None,None,8,5,5,0.35,88,0.3,90,1,89,0.35,89,,None,None
+CS7600,Intensive Computer Systems,"OS structure, concurrency",None,None,None,10,6,5,0.4,87,0.3,89,1,88,0.3,88,,None,None
+CS7800,Advanced Algorithms,"Advanced algorithmic techniques, NP-Completeness, Approximation Algorithms, Randomized Algorithms  ",None,"Linear Algebra, Probability",None,12,6,6,0.45,89,0.3,91,1,90,0.25,90,,CS5800,None
